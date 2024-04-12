@@ -1,5 +1,0 @@
-{
-
-    "token": "Token du bot"
-
-}
